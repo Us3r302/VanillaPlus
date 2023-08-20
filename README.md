@@ -8,8 +8,8 @@ Some features may get you banned on some servers, please ask the server owner we
 How to Use 如何使用 :
 Press RShift in game
 在游戏中按下RShift键。
-Press L to send L message (Use /vloser <id> to set player name).
-按下L键扣L（用/vloser <id> 来设置玩家名称）。
+Press L to send L message (Use /vloser id to set player name).
+按下L键扣L（用/vloser id 来设置玩家名称）。
 
 This mod uses mixins to modify the game. So some clients that support Forge may not support this mod.
 此mod使用了mixin来修改游戏。因此一些支持Forge的客户端可能不支持此mod。
